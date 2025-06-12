@@ -52,10 +52,18 @@ This project focuses **exclusively on Texas**, studying long-term crime patterns
 
 ## ▶️ How to Run
 
-1. Open the notebook: `Crime_Rate_Analysis.ipynb` in [Google Colab](https://colab.research.google.com/)
-2. Upload the dataset: `cleaned_crime_data.csv`
-3. Run each cell in order
-4. View visualizations and read the final insights
+You have two options to view and run this project:
+
+### 📌 Option 1: View on GitHub (No setup needed)
+You can simply click on [`Crime_Rate_Analysis.ipynb`](./Crime_Rate_Analysis.ipynb) right here in GitHub to view the full code, charts, and conclusions—no installation or setup required.
+
+### ⚙️ Option 2: Run on Google Colab
+If you want to execute or modify the code:
+
+1. Open [`Crime_Rate_Analysis.ipynb`](./Crime_Rate_Analysis.ipynb) in [Google Colab](https://colab.research.google.com/)  
+2. Upload the dataset file: `cleaned_crime_data.csv` when prompted  
+3. Run each cell in order  
+4. Explore visualizations and review the final insights
 
 ---
 
