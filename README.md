@@ -55,7 +55,7 @@ This project focuses **exclusively on Texas**, studying long-term crime patterns
 You have two options to view and run this project:
 
 ### 📌 Option 1: View on GitHub (No setup needed)
-You can simply click on [`Crime_Rate_Analysis.ipynb`](./Crime_Rate_Analysis.ipynb) right here in GitHub to view the full code, charts, and conclusions—no installation or setup required.
+You can simply click on [`Crime_Rate_Analysis.ipynb`](./Crime_Rate_Analysis.ipynb) right here in GitHub to view the full code, charts, and conclusions. No installation or setup required.
 
 ### ⚙️ Option 2: Run on Google Colab
 If you want to execute or modify the code:
